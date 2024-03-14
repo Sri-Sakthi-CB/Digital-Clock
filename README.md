@@ -1,7 +1,7 @@
 # Digital Clock Website
 
 Welcome to the Digital Clock website project! This project is a simple yet elegant digital clock created using HTML, CSS, and JavaScript. 
-This Website shows the Time in 12 Hours Format of the place the website is currently being loaded.
+This website shows the time in a 12-hour format based on the location where the website is currently being loaded.
 
 ## Features:
 - **Real-Time Update:** The digital clock displays the current time and updates in real-time without the need to refresh the page.
@@ -25,6 +25,11 @@ Digital Clock Preview Link : https://sri-sakthi-cb.github.io/Digital-Clock/
 ## ScreenShots :
 
 ![image](https://github.com/Sri-Sakthi-CB/Digital-Clock/assets/95374074/d842aa14-9435-48f6-8369-6a020f720593)
+
+
+
+![image](https://github.com/Sri-Sakthi-CB/Digital-Clock/assets/95374074/1cce3227-38eb-487b-b855-43587ffe3aa9)
+
 
 
 Happy coding! 🕒
